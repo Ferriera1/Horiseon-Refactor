@@ -18,6 +18,8 @@ THEN I find a concise, descriptive title
 
 HTML HELP 
 
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+
 https://html.spec.whatwg.org/multipage/sections.html#the-aside-element
 
 https://html.spec.whatwg.org/multipage/dom.html#elements
