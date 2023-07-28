@@ -32,20 +32,24 @@ body {
     font-size: 20px;
 }
 
+/* targeting the unordered list */
 .header nav ul {
     list-style-type: none;
 }
 
+/* targeting the listed items within the unordered list that is in the nav bar that is nested in the header*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* adding colour to the anchor tag */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* specifying a font size for the paragraph */
 p {
     font-size: 16px;
 }
